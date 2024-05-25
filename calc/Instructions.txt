@@ -1,0 +1,10 @@
+##############################################################################
+#                                                                            #
+# Description     : This document describes how to setup and use the ruby    #
+#                   calculator.                                              #
+# Author          : Neville Croker                                           #
+# Date            : 01/10/2022                                               #
+# Version         : 0.1                                                      #
+#----------------------------------------------------------------------------#
+Copy the files into the httpd docs folder.
+
