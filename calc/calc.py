@@ -1,11 +1,11 @@
 #!/usr/bin/python3
 ##############################################################################
 #                                                                            #
-# Script Name     : proj9b.py                                                #
-# Description     : This program shows an example CGI                        #
+# Script Name     : calc.py                                                  #
+# Description     : This is the python calculator program                    #
 # Author          : Neville Croker                                           #
 # Date            : 21 April 2022                                            #
-# Version         : 1.0.0                                                    #
+# Version         : 1.0.1                                                    #
 #----------------------------------------------------------------------------#
 #                                                                            #
 #                  PROPRIETARY AND CONFIDENTIAL INFORMATION                  #
